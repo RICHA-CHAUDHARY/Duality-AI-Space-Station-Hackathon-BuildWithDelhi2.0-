@@ -39,17 +39,17 @@ Participants are tasked with building and optimizing AI models capable of detect
 ## 📊 Final Evaluation Metrics (YOLOv8 Validation)
 
 *Overall Model Performance:*
-- 📈 *mAP@0.5:* 0.911  
-- 🎯 *mAP@0.5:0.95:* 0.778  
-- ✅ *Precision (avg.):* 0.974  
+- 📈 *mAP@0.5:* 0.918
+- 🎯 *mAP@0.5:0.95:* 0.779  
+- ✅ *Precision (avg.):* 0.965 
 - 🔄 *Recall (avg.):* 0.846  
 
 *📌 Class-wise Detection Performance (mAP@0.5):*
 | Class Name         | mAP@0.5 |
 |--------------------|---------|
-| 🧯 Fire Extinguisher | 0.942   |
-| 🔧 Toolbox           | 0.907   |
-| 🪫 Oxygen Tank       | 0.878   |
+| 🧯 Fire Extinguisher | 0.937  |
+| 🔧 Toolbox           | 0.918  |
+| 🪫 Oxygen Tank       | 0.899  |
 
 Visual results and confusion matrices can be found in the FINAL_REPORT.pdf and runs/ visualizations.
 
