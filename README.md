@@ -114,7 +114,7 @@ python app.py
 
 ---
 
-📝 Deliverables
+ ## 📝 Deliverables
 
 ✅ Trained YOLOv8 model weights
 
@@ -132,7 +132,7 @@ python app.py
 
 ---
 
-🏆 Team & Acknowledgments
+## 🏆 Team & Acknowledgments
 
 Team Name: BITBUSTERS
 
@@ -146,7 +146,7 @@ Special thanks to the mentors, Falcon support team, and SunHacks organizers.
 
 ---
 
-🔗 Submission Details
+## 🔗 Submission Details
 
 GitHub Repository: https://github.com/RICHA-CHAUDHARY/Duality-AI-Space-Station-Hackathon-BuildWithDelhi2.0-
 
